@@ -13,7 +13,8 @@ int main()
         Do Task 'X' while 'Y" condition is met. 
         
         So the condition here says: 
-            While digit is lesser than 100, add digit by itself and store that answer in sum and then increment digit by 1. */
+            While digit is lesser than 100, add digit by itself and store that answer in sum and then increment digit by 1. 
+    */
     while (digit <= 100)
     {
         sum += digit;
